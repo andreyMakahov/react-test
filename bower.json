@@ -1,0 +1,24 @@
+{
+  "name": "react-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/andreyMakahov/react-test",
+  "description": "react test",
+  "main": "app.js",
+  "keywords": [
+    "react"
+  ],
+  "authors": [
+    "dron"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
