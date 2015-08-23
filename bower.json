@@ -20,5 +20,9 @@
   ],
   "dependencies": {
     "react": "~0.13.3"
+  },
+  "devDependencies": {
+    "testing-traceur-again": "~0.0.42",
+    "react": "~0.13.3"
   }
 }
